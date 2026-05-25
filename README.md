@@ -94,7 +94,7 @@ Bogies and Running Gears](https://transportation.bme.hu/2022/11/30/bogie22/), 20
 
 - J. Torggler, A. Dutzler, B. Oberdorfer, T. Faethe, H. Müller, C. Buzzi, and M. Leitner, "Investigating Damage Mechanisms in Cord-Rubber Composite Air Spring Bellows of Rail Vehicles and Representative Specimen Design", [Applied Composite Materials](https://www.springer.com/journal/10443). Springer Science and Business Media LLC, Aug. 22, 2023. doi: [10.1007/s10443-023-10157-1](https://link.springer.com/article/10.1007/s10443-023-10157-1). Simulation-related Python scripts are available on GitHub at [adtzlr/fiberreinforcedrubber](https://github.com/adtzlr/fiberreinforcedrubber). <a target="_blank" href="https://colab.research.google.com/github/adtzlr/fiberreinforcedrubber/blob/main/docs/notebooks/ex01_specimen_amplitudes.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-- E. Navas, K. Blanco, D. Rodríguez-Nieto, and R. Fernández, "Design and grasp planning of a reconfigurable hybrid soft gripper using SINDy and virtual object representation", Sensors and Actuators A: Physical, vol. 401, p. 117621, Apr. 2026, doi: [10.1016/j.sna.2026.117621](https://doi.org/10.1016/j.sna.2026.117621). 
+- E. Navas, K. Blanco, D. Rodríguez-Nieto, and R. Fernández, "Design and grasp planning of a reconfigurable hybrid soft gripper using SINDy and virtual object representation", [Sensors and Actuators A: Physical](https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical), vol. 401, p. 117621, Apr. 2026, doi: [10.1016/j.sna.2026.117621](https://doi.org/10.1016/j.sna.2026.117621). 
 
 </details>
 
