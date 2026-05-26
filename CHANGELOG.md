@@ -31,6 +31,7 @@ All notable changes to this project will be documented in this file. The format 
 
 ### Fixed
 - Fix the typo `Rhapson` and change it to `Raphson`.
+- Fix per-cell material parameter arrays for `NeoHookeCompressible`.
 
 ### Deprecated
 - Deprecate `newtonrhapson()` and `tools.newtonrhapson()`. Use `newtonraphson()` and `tools.newtonraphson()` in new code.
