@@ -5,6 +5,10 @@ build:
   tools:
     python: "3.12"
   apt_packages:
+    - libopengl0
+    - libgl1
+    - libegl1
+    - libxrender1
     - pandoc
 
 sphinx:
