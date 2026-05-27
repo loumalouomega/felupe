@@ -60,6 +60,6 @@ field.plot("Principal Values of Logarithmic Strain").show()
 # ``"move"`` is plotted as a function of the displacement :math:`u` on the boundary
 # condition ``"move"`` .
 fig, ax = curve.plot(
-    xlabel=r"Displacement $u$ in mm $\longrightarrow$"
+    xlabel=r"Displacement $u$ in mm $\longrightarrow$",
     ylabel=r"Normal Force $F$ in N $\longrightarrow$",
 )
